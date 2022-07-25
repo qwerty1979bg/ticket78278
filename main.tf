@@ -1,1 +1,3 @@
-variable "a" {}
+variable "a" {
+default="test1"
+}
